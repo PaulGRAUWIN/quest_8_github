@@ -1,4 +1,4 @@
 # quest_8
- Le projet liée à la quête 8
+ Le projet liée à la quête Github Desktop
  
  Il est très complet
